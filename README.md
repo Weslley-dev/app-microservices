@@ -23,7 +23,7 @@ após isso
 - docker build -t docker-node .
 - docker-images
 - docker run -p 3000:8080 -d --name nodejs-container docker-node
-- docker ps (para verificar se tá funcionando.)
+- docker ps (para verificar se tá funcionando)
 
 apos isso utilize a url com a porta 3000 para testar
 
