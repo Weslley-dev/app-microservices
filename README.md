@@ -9,10 +9,10 @@ localhost:8080 no browser/postman e etc
 
 para utilizar utilize a url:
 
-localhost:8080/soma/numero/numero
-localhost:8080/sub/numero/numero
-localhost:8080/mult/numero/numero
-localhost:8080/div/numero/numero
+- localhost:8080/soma/numero/numero
+- localhost:8080/sub/numero/numero
+- localhost:8080/mult/numero/numero
+- localhost:8080/div/numero/numero
 
 
 para utilizar o docker:
