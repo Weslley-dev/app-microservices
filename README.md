@@ -21,9 +21,10 @@ antes de tudo instale o docker app na máquina ou via terminal
 após isso
 
 - docker build -t docker-node .
-- docker-images
+- docker images
 - docker run -p 3000:8080 -d --name nodejs-container docker-node
 - docker ps (para verificar se tá funcionando)
+- docker-compose up
 
 apos isso utilize a url com a porta 3000 para testar
 
